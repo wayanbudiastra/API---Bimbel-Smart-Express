@@ -1,0 +1,8 @@
+{
+  "name": "BimbelSmart Backend API",
+  "description": "Backend API lengkap untuk aplikasi bimbingan belajar menggunakan Node.js, Express, Prisma (MySQL), Redis, dan JWT.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
